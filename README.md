@@ -57,7 +57,7 @@ Scatter plots show clear separation between some species (e.g., Setosa vs Virgin
 
 Clone this repository:
 
-git clone https://github.com/your-username/data-analysis-assignment.git
+git clone https://github.com/NeoMarvin/data-analysis-assignment.git
 cd data-analysis-assignment
 
 
